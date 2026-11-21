@@ -1,0 +1,6 @@
+{
+  "name": "lumarq.3d — Architectural 3D-Printed Lighting",
+  "description": "Interactive 3D lighting configurator and architectural lamp studio from Rajkot, India. Printed Light. Architectural Soul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
